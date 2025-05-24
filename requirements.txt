@@ -2,3 +2,5 @@ uv
 jupyterlab
 micrograd
 graphviz
+kagglehub
+polars
