@@ -1,0 +1,4 @@
+uv
+jupyterlab
+micrograd
+graphviz
