@@ -4,3 +4,5 @@ micrograd
 graphviz
 kagglehub
 polars
+matplotlib
+ipywidgets
