@@ -6,3 +6,6 @@ kagglehub
 polars
 matplotlib
 ipywidgets
+gymnasium
+pygame
+PyQt6
