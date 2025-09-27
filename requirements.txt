@@ -9,3 +9,6 @@ ipywidgets
 gymnasium
 pygame
 PyQt6
+degirum
+degirum_tools
+degirum_cli
